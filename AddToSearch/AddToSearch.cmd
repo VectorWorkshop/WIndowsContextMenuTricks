@@ -1,0 +1,1 @@
+cmd /c \"xcopy /C \"%1\" \"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\" & del \"%1\"\"
