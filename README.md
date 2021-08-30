@@ -11,3 +11,5 @@ Download latest [AddToSearch.reg](https://github.com/VectorWorkshop/WIndowsConte
 ### Using
 
 Create and rename a shortcut to any program, right-click it and select `Add to search`. Shortcut will be copied to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs` and **deleted**
+
+![Screenshot](https://user-images.githubusercontent.com/87804989/131368476-2434d2bf-5f9d-4f6e-9531-04cac9c86e97.png)
